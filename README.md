@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tahagoheer
-- 👀 I’m interested in Web and App Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ⚖️
+- 👋 Hi, I’m Muhammad Taha Ahmad
+- 👀 I’m interested in Mobile, Web and App Development
+- 🌱 I’m currently working with Flutter & Dart.
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me tahaahmadmuhammad@gmail.com
